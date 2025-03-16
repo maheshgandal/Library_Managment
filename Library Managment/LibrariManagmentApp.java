@@ -12,7 +12,7 @@ public class LibrariManagmentApp
         Librarian lib[]=new Librarian[2];
         Student stu[]=new Student[2];
         Book book[]=new Book[5];
-
+        
         System.out.println("Enter Librarian details");
         for(int i=0;i<lib.length;i++)
         {
